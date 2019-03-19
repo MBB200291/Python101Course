@@ -1,5 +1,2 @@
-hihi im ben
-
-ttt
-
-aaa
+a = 1
+b = 2
