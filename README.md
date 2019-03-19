@@ -8,7 +8,7 @@ The Repo is for storing course of python101
 ### 三個#
 
 
-*一個星號
+* 一個星號
 
 _一個底線
 
