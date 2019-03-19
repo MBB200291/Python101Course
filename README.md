@@ -1,4 +1,12 @@
-This readme file.
+This is README
 =====
 
-This is for storing course of python1.01
+The Repo is for storing course of python101
+
+* a
+* b
+* c
+
+# A
+# B
+# C
