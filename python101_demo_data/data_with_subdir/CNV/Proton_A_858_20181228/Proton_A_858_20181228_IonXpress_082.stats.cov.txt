@@ -1,0 +1,48 @@
+Coverage Analysis Report
+
+Sample Name: E02213_D1
+Reference Genome: hg19
+Target Regions: Onco2M7_Designed_20180402
+Alignments: IonXpress_082_Auto_ICA_20181227_2_act-genomics-proton-a-server_1889
+bbctools version: 1.301
+
+Number of mapped reads:         28096744
+Percent reads on target:        97.30%
+
+Number of amplicons:                18431
+Total assigned amplicon reads:      27339042
+Percent assigned amplicon reads:    97.30%
+Average reads per amplicon:         1483
+Uniformity of amplicon coverage:    92.28%
+Amplicons with at least 1 read: 99.82%
+Amplicons with at least 1 reads:    99.82%
+Amplicons with at least 10 reads:   99.13%
+Amplicons with at least 20 reads:   98.61%
+Amplicons with at least 50 reads:   97.55%
+Amplicons with at least 100 reads:  96.35%
+Amplicons with at least 200 reads:  94.47%
+Amplicons with at least 500 reads:  86.41%
+Amplicons with at least 1000 reads: 67.51%
+Amplicons with at least 2000 reads: 26.66%
+Amplicons with no strand bias:      97.52%
+Amplicons reading end-to-end:       95.73%
+Amplicon base composition bias:     1.730
+
+Total aligned base reads:          3278243644
+Total base reads on target:        3090887252
+Bases in target regions:           1848322
+Percent base reads on target:      94.28%
+Average base coverage depth:       1672
+Uniformity of base coverage:       92.67%
+Target base coverage at 1x:        99.86%
+Target base coverage at 1x:        99.86%
+Target base coverage at 10x:       99.38%
+Target base coverage at 20x:       98.97%
+Target base coverage at 50x:       97.98%
+Target base coverage at 100x:      97.02%
+Target base coverage at 200x:      95.37%
+Target base coverage at 500x:      88.51%
+Target base coverage at 1000x:     71.76%
+Target base coverage at 2000x:     33.24%
+Target bases with no strand bias:  96.98%
+Percent end-to-end reads:          92.85%
