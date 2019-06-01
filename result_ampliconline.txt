@@ -1,0 +1,90 @@
+Proton_A_890_20190328_IonXpress_066.stats.cov.txt	Number of amplicons:                18421
+Proton_A_890_20190328_IonXpress_066.stats.cov.txt	Total assigned amplicon reads:      20268715
+Proton_A_890_20190328_IonXpress_066.stats.cov.txt	Percent assigned amplicon reads:    96.97%
+Proton_A_890_20190328_IonXpress_066.stats.cov.txt	Average reads per amplicon:         1100
+Proton_A_890_20190328_IonXpress_066.stats.cov.txt	Uniformity of amplicon coverage:    93.19%
+****************************************************************************************************
+Proton_A_890_20190328_IonXpress_062.stats.cov.txt	Number of amplicons:                18421
+Proton_A_890_20190328_IonXpress_062.stats.cov.txt	Total assigned amplicon reads:      22828946
+Proton_A_890_20190328_IonXpress_062.stats.cov.txt	Percent assigned amplicon reads:    96.91%
+Proton_A_890_20190328_IonXpress_062.stats.cov.txt	Average reads per amplicon:         1239
+Proton_A_890_20190328_IonXpress_062.stats.cov.txt	Uniformity of amplicon coverage:    91.95%
+****************************************************************************************************
+Proton_A_890_20190328_IonXpress_065.stats.cov.txt	Number of amplicons:                18421
+Proton_A_890_20190328_IonXpress_065.stats.cov.txt	Total assigned amplicon reads:      24146343
+Proton_A_890_20190328_IonXpress_065.stats.cov.txt	Percent assigned amplicon reads:    97.06%
+Proton_A_890_20190328_IonXpress_065.stats.cov.txt	Average reads per amplicon:         1311
+Proton_A_890_20190328_IonXpress_065.stats.cov.txt	Uniformity of amplicon coverage:    92.81%
+****************************************************************************************************
+Proton_A_845_20181220_IonXpress_038.stats.cov.txt	Number of amplicons:                18421
+Proton_A_845_20181220_IonXpress_038.stats.cov.txt	Total assigned amplicon reads:      13976164
+Proton_A_845_20181220_IonXpress_038.stats.cov.txt	Percent assigned amplicon reads:    97.25%
+Proton_A_845_20181220_IonXpress_038.stats.cov.txt	Average reads per amplicon:         758.7
+Proton_A_845_20181220_IonXpress_038.stats.cov.txt	Uniformity of amplicon coverage:    92.11%
+****************************************************************************************************
+Proton_A_878_20190305_IonXpress_071.stats.cov.txt	Number of amplicons:                18431
+Proton_A_878_20190305_IonXpress_071.stats.cov.txt	Total assigned amplicon reads:      35446005
+Proton_A_878_20190305_IonXpress_071.stats.cov.txt	Percent assigned amplicon reads:    97.62%
+Proton_A_878_20190305_IonXpress_071.stats.cov.txt	Average reads per amplicon:         1923
+Proton_A_878_20190305_IonXpress_071.stats.cov.txt	Uniformity of amplicon coverage:    89.89%
+****************************************************************************************************
+Proton_A_878_20190305_IonXpress_075.stats.cov.txt	Number of amplicons:                319
+Proton_A_878_20190305_IonXpress_075.stats.cov.txt	Total assigned amplicon reads:      3355627
+Proton_A_878_20190305_IonXpress_075.stats.cov.txt	Percent assigned amplicon reads:    96.14%
+Proton_A_878_20190305_IonXpress_075.stats.cov.txt	Average reads per amplicon:         10519
+Proton_A_878_20190305_IonXpress_075.stats.cov.txt	Uniformity of amplicon coverage:    95.61%
+****************************************************************************************************
+Proton_A_878_20190305_IonXpress_072.stats.cov.txt	Number of amplicons:                18431
+Proton_A_878_20190305_IonXpress_072.stats.cov.txt	Total assigned amplicon reads:      36215798
+Proton_A_878_20190305_IonXpress_072.stats.cov.txt	Percent assigned amplicon reads:    97.70%
+Proton_A_878_20190305_IonXpress_072.stats.cov.txt	Average reads per amplicon:         1965
+Proton_A_878_20190305_IonXpress_072.stats.cov.txt	Uniformity of amplicon coverage:    91.35%
+****************************************************************************************************
+Proton_A_878_20190305_IonXpress_076.stats.cov.txt	Number of amplicons:                348
+Proton_A_878_20190305_IonXpress_076.stats.cov.txt	Total assigned amplicon reads:      1123791
+Proton_A_878_20190305_IonXpress_076.stats.cov.txt	Percent assigned amplicon reads:    98.83%
+Proton_A_878_20190305_IonXpress_076.stats.cov.txt	Average reads per amplicon:         3229
+Proton_A_878_20190305_IonXpress_076.stats.cov.txt	Uniformity of amplicon coverage:    96.84%
+****************************************************************************************************
+Proton_A_878_20190305_IonXpress_077.stats.cov.txt	Number of amplicons:                207
+Proton_A_878_20190305_IonXpress_077.stats.cov.txt	Total assigned amplicon reads:      46
+Proton_A_878_20190305_IonXpress_077.stats.cov.txt	Percent assigned amplicon reads:    0.02%
+Proton_A_878_20190305_IonXpress_077.stats.cov.txt	Average reads per amplicon:         0.222
+Proton_A_878_20190305_IonXpress_077.stats.cov.txt	Uniformity of amplicon coverage:    95.77%
+****************************************************************************************************
+Proton_A_878_20190305_IonXpress_073.stats.cov.txt	Number of amplicons:                828
+Proton_A_878_20190305_IonXpress_073.stats.cov.txt	Total assigned amplicon reads:      2085794
+Proton_A_878_20190305_IonXpress_073.stats.cov.txt	Percent assigned amplicon reads:    96.14%
+Proton_A_878_20190305_IonXpress_073.stats.cov.txt	Average reads per amplicon:         2519
+Proton_A_878_20190305_IonXpress_073.stats.cov.txt	Uniformity of amplicon coverage:    96.40%
+****************************************************************************************************
+Proton_A_845_20181220_IonXpress_040.stats.cov.txt	Number of amplicons:                18421
+Proton_A_845_20181220_IonXpress_040.stats.cov.txt	Total assigned amplicon reads:      12744164
+Proton_A_845_20181220_IonXpress_040.stats.cov.txt	Percent assigned amplicon reads:    97.47%
+Proton_A_845_20181220_IonXpress_040.stats.cov.txt	Average reads per amplicon:         691.8
+Proton_A_845_20181220_IonXpress_040.stats.cov.txt	Uniformity of amplicon coverage:    92.39%
+****************************************************************************************************
+Proton_A_878_20190305_IonXpress_074.stats.cov.txt	Number of amplicons:                41
+Proton_A_878_20190305_IonXpress_074.stats.cov.txt	Total assigned amplicon reads:      1896230
+Proton_A_878_20190305_IonXpress_074.stats.cov.txt	Percent assigned amplicon reads:    95.38%
+Proton_A_878_20190305_IonXpress_074.stats.cov.txt	Average reads per amplicon:         46250
+Proton_A_878_20190305_IonXpress_074.stats.cov.txt	Uniformity of amplicon coverage:    95.12%
+****************************************************************************************************
+Proton_A_845_20181220_IonXpress_037.stats.cov.txt	Number of amplicons:                18421
+Proton_A_845_20181220_IonXpress_037.stats.cov.txt	Total assigned amplicon reads:      25386371
+Proton_A_845_20181220_IonXpress_037.stats.cov.txt	Percent assigned amplicon reads:    97.18%
+Proton_A_845_20181220_IonXpress_037.stats.cov.txt	Average reads per amplicon:         1378
+Proton_A_845_20181220_IonXpress_037.stats.cov.txt	Uniformity of amplicon coverage:    93.26%
+****************************************************************************************************
+Proton_A_845_20181220_IonXpress_039.stats.cov.txt	Number of amplicons:                18421
+Proton_A_845_20181220_IonXpress_039.stats.cov.txt	Total assigned amplicon reads:      21209773
+Proton_A_845_20181220_IonXpress_039.stats.cov.txt	Percent assigned amplicon reads:    97.25%
+Proton_A_845_20181220_IonXpress_039.stats.cov.txt	Average reads per amplicon:         1151
+Proton_A_845_20181220_IonXpress_039.stats.cov.txt	Uniformity of amplicon coverage:    93.40%
+****************************************************************************************************
+Proton_A_890_20190328_IonXpress_063.stats.cov.txt	Number of amplicons:                18421
+Proton_A_890_20190328_IonXpress_063.stats.cov.txt	Total assigned amplicon reads:      24953581
+Proton_A_890_20190328_IonXpress_063.stats.cov.txt	Percent assigned amplicon reads:    96.91%
+Proton_A_890_20190328_IonXpress_063.stats.cov.txt	Average reads per amplicon:         1355
+Proton_A_890_20190328_IonXpress_063.stats.cov.txt	Uniformity of amplicon coverage:    93.38%
+****************************************************************************************************
